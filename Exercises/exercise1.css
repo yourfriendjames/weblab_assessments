@@ -1,0 +1,57 @@
+body{
+
+}
+
+h1{
+    font-weight:bold;
+    color: whitesmoke;
+}
+content {
+    background-color: #464646
+
+}
+.lorem1 {
+    font-family:sans-serif;
+    background-color: lightcyan;
+}
+.lorem2 {
+    color:royalblue;
+    border: 1px;
+    background-color: lightgreen;
+}
+.lorem3 {
+    font-style:italic;
+    background-color: darkolivegreen;
+    color: #999
+}
+.lorem4 {
+    color:royalblue;
+    border: 1px;
+    background-color: lightgreen;
+}
+.lorem5 {
+    font-family:sans-serif;
+    fons-size: 12px;
+    color: tomato;
+}
+#header {
+    height: 40px;
+    /*width: 100%;*/
+    color: whitesmoke;
+    background-color: #464646;
+    text-align: center
+}
+#nav {
+    eight: 60px;
+    width: 100%;
+    color: whitesmoke;
+    background-color: #464646;
+}
+#footer {
+    height: 40px;
+    /*width: 100%;*/
+    color: whitesmoke;
+    background-color: #464646;
+    text-align: center;
+}
+
