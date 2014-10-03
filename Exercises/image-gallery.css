@@ -1,0 +1,28 @@
+
+body {
+    background-image: url(http://cl.ly/image/293e1m1g1t3R/hoffman.png);
+}
+#header {
+    color: rgb(78, 71, 62);
+    font-family: cabin;
+    margin: 35px;
+    
+
+
+}
+#content {
+    background-color: rgb(78, 71, 62);
+    color: whitesmoke;
+    margin: 15px auto;
+    padding: 15px 30px;
+    max-width: 450px;
+    font-family: cabin;
+}
+
+.images p {
+    color: blue;
+    font-family: cabin;
+
+}
+
+#footer

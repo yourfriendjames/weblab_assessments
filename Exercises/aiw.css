@@ -1,4 +1,11 @@
-
+body {
+    background-image: url(http://cl.ly/image/070k0M3R202b/tweed.png);
+    font-family: cabin;
+}
+#toc-header {
+    text-align: center;
+    font-weight: bold;
+}
 #header {
     height: 77px;
     width: 515px;
@@ -28,18 +35,27 @@
     max-width: 450px;
     border: 1px solid black
 }
+#about-ch1{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: 15px auto;
+    padding: 15px 30px;
+    max-width: 450px;
+    border: 1px solid black
+}
+
 ul#toc{
     list-style-type: none;
 }
 
-#content p1{
+#p1{
 text-align: center;
 }
 #p2{
     text-align: left;
 }
 #footer {
-    height: 50px;
+    height: 4em;
     width: 515px;
     color: black;
     border-radius: 10px;
@@ -51,8 +67,4 @@ text-align: center;
 }
 table{
     margin: 0px auto;
-}
-body {
-    background-image: url(http://static.simpledesktops.com/uploads/desktops/2013/08/07/Max_Williamson.png)
-
 }
